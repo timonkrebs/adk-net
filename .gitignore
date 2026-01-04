@@ -4,3 +4,12 @@ node_modules/
 .DS_Store
 .idea/
 .vscode/
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+**/bin/
+**/obj/
